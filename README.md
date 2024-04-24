@@ -23,7 +23,7 @@
 
 ## 요구사항
 
-- Python 3.x
+- Python 3.9
 - pandas
 - numpy
 - yfinance
